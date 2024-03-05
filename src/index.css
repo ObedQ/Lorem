@@ -31,3 +31,32 @@ nav {
  a {
   text-decoration: none;
 }
+
+.Main-header {
+  font-size: 55px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10rem;
+  
+}
+
+.image-slider {
+  margin-top: 30px;
+}
+
+.Main-header-title {
+  line-height: 105px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.title-styling {
+  color: rgba(69, 84, 221, 1);
+}
+
+small {
+  font-size: 22px;
+  line-height: 0;
+  margin-top: 0;
+}
